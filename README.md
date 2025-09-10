@@ -192,7 +192,7 @@ Check out these slides on best practices and target applications protein design 
 Now that we did all the hard work setting up the protein design infrastructure, let's apply it! <br>
 
 # Backbone design
-*If you don't have a binding target, just use the one in the example scripts built into RFdiffusion*
+*If you don't have a binding target, use the one in the example scripts built into RFdiffusion*
 - Add your target structure .pdb file into a folder called input_pdbs
 - Make a copy of the binder example shell script in examples
 <pre> cp ./protein_design_software/RFdiffusion/examples/design_ppi.sh workshop_binder.sh </pre>
